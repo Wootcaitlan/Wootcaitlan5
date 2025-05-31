@@ -9,6 +9,7 @@ YouTube账号批量出货｜支持API对接 / 可定制注册环境
 📱 可绑定手机号、设置双重验证
 📈 用于账号养成、搬运频道注册、自动评论脚本等
 适合跑项目团队、养频道服务商、SaaS平台接入使用。
+
 海外耐用账号出售
 https://guojizhanghao.top 
 
@@ -23,3 +24,5 @@ https://shimingka.top
 
 接码：
 https://kuaijiema.top
+
+<img src="pic/bbb.png" alt="YouTube账号批量出货" border="0">
